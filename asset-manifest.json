@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple2b_test_reactjs/static/css/main.8489248f.css",
+    "main.css": "/simple2b_test_reactjs/static/css/main.8cf6d2ce.css",
     "main.js": "/simple2b_test_reactjs/static/js/main.ef075b02.js",
     "static/js/787.0c3f432a.chunk.js": "/simple2b_test_reactjs/static/js/787.0c3f432a.chunk.js",
     "static/media/1.png": "/simple2b_test_reactjs/static/media/1.a91269d900fa8398e2d2.png",
@@ -8,12 +8,12 @@
     "static/media/2.png": "/simple2b_test_reactjs/static/media/2.9f7247b3a35f7cc6e15d.png",
     "static/media/3.png": "/simple2b_test_reactjs/static/media/3.ae847b1f007e88ad5b5e.png",
     "index.html": "/simple2b_test_reactjs/index.html",
-    "main.8489248f.css.map": "/simple2b_test_reactjs/static/css/main.8489248f.css.map",
+    "main.8cf6d2ce.css.map": "/simple2b_test_reactjs/static/css/main.8cf6d2ce.css.map",
     "main.ef075b02.js.map": "/simple2b_test_reactjs/static/js/main.ef075b02.js.map",
     "787.0c3f432a.chunk.js.map": "/simple2b_test_reactjs/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8489248f.css",
+    "static/css/main.8cf6d2ce.css",
     "static/js/main.ef075b02.js"
   ]
 }
