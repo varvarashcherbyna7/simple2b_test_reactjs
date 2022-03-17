@@ -1,0 +1,31 @@
+@import ../sass/_variabless
+@import ../sass/_mixins
+
+.containerApp_content
+    width: 100%
+    display: flex
+    justify-content: center
+    flex-direction: column
+    .title
+        width: 100%
+        margin: 0 auto
+        padding-top: 25px
+        padding-bottom: 20px 
+        @include centered-content
+        text-align: center
+        font-size: 25px
+        font-weight: 600
+        border-top: 1px solid #EE791F
+    .item
+        width: 100%
+        margin: 0 auto
+        margin-bottom: 20px
+        display: flex
+        justify-content: space-between
+        align-items: center
+        background-color: $item-bg-color
+        padding: 10px 13px
+    .item_text
+        width: 50%
+        font-size: 20px
+        font-weight: 500

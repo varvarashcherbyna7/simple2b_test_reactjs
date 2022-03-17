@@ -1,0 +1,31 @@
+@import ../sass/_variabless
+@import ../sass/_mixins
+
+.containerApp_titleContent
+    width: 100%
+    @include centered-content
+    flex-direction: column
+    .animationContent
+        width: 100%
+    .titleContent
+        width: 95%
+        @include centered-content
+        text-align: center
+        font-size: 25px
+        font-weight: 500
+    .subTitleContent
+        width: 95%
+        @include centered-content
+        margin: 15px auto
+        font-size: 17px
+        font-weight: 400
+    .btnContent
+        width: 258px
+        height: 60px
+        @include centered-content
+        color: $light-color-text
+        background-color: $btn-bg-color
+        border-radius: 10px
+        margin-bottom: 109px
+        box-shadow: $shadow-color
+
